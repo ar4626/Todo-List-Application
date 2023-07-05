@@ -1,5 +1,15 @@
 A todo list app
 
+User can add, check after completed and delete a particular task.
+
+User can delete the task by clicking on the delete icon.
+
+View of the Todo List App...
+
+## You can visit: https://todolistninjas.netlify.app/
+
+
+![todo screenshot](Todo List Application .png)
 
 ### General steps to follow when creating a project
 
@@ -18,3 +28,4 @@ A todo list app
 	- checkTodo
 	- renderTodosList
 	- showNotification
+# Todo-List-App
