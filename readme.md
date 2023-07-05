@@ -1,4 +1,4 @@
-A todo list app
+# Todo-List-App
 
 User can add, check after completed and delete a particular task.
 
@@ -28,4 +28,4 @@ View of the Todo List App...
 	- checkTodo
 	- renderTodosList
 	- showNotification
-# Todo-List-App
+
